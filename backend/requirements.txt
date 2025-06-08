@@ -1,0 +1,15 @@
+langchain-openai
+python-dotenv
+pydantic
+newsapi-python
+
+
+langgraph
+langchain-openai
+langchain-core
+pydantic
+python-dotenv
+newsapi-python
+beautifulsoup4
+ipython
+nest_asyncio
