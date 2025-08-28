@@ -193,5 +193,28 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Project-specific ignores
+# Generated output files
+output/
+example_output/
+*.txt
+!requirements.txt
+!sources.txt
 
-backend/.env
+# Documentation files (keep only main README, LICENSE, and CHANGELOG)
+PIPELINE_README.md
+PODCAST_README.md
+LINKEDIN_README.md
+CLEANUP_SUMMARY.md
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
