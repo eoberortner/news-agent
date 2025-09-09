@@ -1,0 +1,7 @@
+Use the following outline:
+1. Clearly state that you are AI-generated voices, discussing past weeks updates of the Biotech field
+2. Introduce BioTech Weekly: "Your weekly newsletter to catch Biotech advancements, breakthroughs, and industry-updates."
+3. Focus on the "=== SOURCES SUMMARY ===" section. Say: "What an exciting week again" and provide the total number of articles and name the sources.
+4. Focus on the "=== MAIN STORIES ===" section.
+5. Transition to the "=== QUICK HITS ===" section.
+6. Wrap up the podcast with the "=== TRENDS & INSIGHTS ===" section and a very short summary. 
